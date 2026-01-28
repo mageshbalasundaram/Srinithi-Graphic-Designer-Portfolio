@@ -7,17 +7,17 @@ import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 
 // healthcare images 
-import healthcare from "../assets/work/healthcare/birth.webp"
-import healthcare1 from "../assets/work/healthcare/birthnbond.webp"
-import healthcare2 from "../assets/work/healthcare/kc-flyer.webp"
-import healthcare3 from "../assets/work/healthcare/kcshowcase5.webp"
-import healthcare4 from "../assets/work/healthcare/calories.webp"
-import healthcare5 from "../assets/work/healthcare/infant.webp"
-import healthcare6 from "../assets/work/healthcare/nail.webp"
-import healthcare7 from "../assets/work/healthcare/aba.webp"
-import healthcare8 from "../assets/work/healthcare/health.webp"
-import healthcare9 from "../assets/work/healthcare/online.webp"
-import healthcare10 from "../assets/work/healthcare/proffesionals.webp"
+import healthcare from  "../assets/work/Healthcare/birth.webp"
+import healthcare1 from "../assets/work/Healthcare/birthnbond.webp"
+import healthcare2 from "../assets/work/Healthcare/kc-flyer.webp"
+import healthcare3 from "../assets/work/Healthcare/kcshowcase5.webp"
+import healthcare4 from "../assets/work/Healthcare/calories.webp"
+import healthcare5 from "../assets/work/Healthcare/infant.webp"
+import healthcare6 from "../assets/work/Healthcare/nail.webp"
+import healthcare7 from "../assets/work/Healthcare/aba.webp"
+import healthcare8 from "../assets/work/Healthcare/health.webp"
+import healthcare9 from "../assets/work/Healthcare/online.webp"
+import healthcare10 from"../assets/work/Healthcare/proffesionals.webp"
 
 // agri images
 import agri1 from "../assets/work/Branding/agri/why timac.webp"
