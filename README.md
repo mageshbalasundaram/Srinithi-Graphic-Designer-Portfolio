@@ -1,7 +1,6 @@
 # 🎨 Srinithi – Graphic Designer Portfolio
 
 A modern, high-performance graphic designer portfolio built with **React + Vite + Tailwind CSS**, showcasing creative work through a clean UI, smooth animations, and engaging layouts.
-
 This project focuses on delivering an attractive **UI/UX experience** while maintaining developer best practices, performance, and scalability.
 
 ---
@@ -31,6 +30,23 @@ This project focuses on delivering an attractive **UI/UX experience** while main
 - **Formspree (Contact Form API)**
 
 ---
+**Project Highlights**
+
+Bento grid layout for visual storytelling
+Swiper carousel for project showcases
+Framer Motion animations for smooth transitions
+Modular React components
+Tailwind utility-first styling
+API-based contact form
+SEO-friendly structure
+Live Website
+srinithi.blorencedesign.com
+
+👨‍💻 Developer
+
+Magesh Balasundaram
+Frontend Developer | React Enthusiast
+
 
 ## 📦 Installation
 
@@ -63,30 +79,6 @@ VITE_FORMSPREE_ENDPOINT=https://formspree.io/f/xxxxxxx
 ⚠️ Make sure .env is added to .gitignore.
 
 
-Project Highlights
-
-Bento grid layout for visual storytelling
-
-Swiper carousel for project showcases
-
-Framer Motion animations for smooth transitions
-
-Modular React components
-
-Tailwind utility-first styling
-
-API-based contact form
-
-SEO-friendly structure
-
-Live Website
-srinithi.blorencedesign.com
-
-
-👨‍💻 Developer
-
-Magesh Balasundaram
-Frontend Developer | React Enthusiast
 
 
 License
