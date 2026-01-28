@@ -7,7 +7,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 
 // healthcare images 
-import healthcare from  "../assets/work/Healthcare/birth.webp"
+import healthcare from "../assets/work/Healthcare/birth.webp"
 import healthcare1 from "../assets/work/Healthcare/birthnbond.webp"
 import healthcare2 from "../assets/work/Healthcare/kc-flyer.webp"
 import healthcare3 from "../assets/work/Healthcare/kcshowcase5.webp"
@@ -17,7 +17,7 @@ import healthcare6 from "../assets/work/Healthcare/nail.webp"
 import healthcare7 from "../assets/work/Healthcare/aba.webp"
 import healthcare8 from "../assets/work/Healthcare/health.webp"
 import healthcare9 from "../assets/work/Healthcare/online.webp"
-import healthcare10 from"../assets/work/Healthcare/proffesionals.webp"
+import healthcare10 from "../assets/work/Healthcare/proffesionals.webp"
 
 // agri images
 import agri1 from "../assets/work/Branding/agri/why timac.webp"
@@ -27,7 +27,7 @@ import agri5 from "../assets/work/Branding/agri/paddy.webp"
 import agri6 from "../assets/work/Branding/agri/rule.webp"
 import agri8 from "../assets/work/Branding/agri/timac.webp"
 import agri9 from "../assets/work/Branding/agri/rose.webp"
-import cowcover from "../assets/work/Branding/agri/cow c.webp"
+import cowcover from "../assets/work/Branding/agri/Cow c.webp"
 import cow from "../assets/work/Branding/agri/cow 1.webp"
 import cow1 from "../assets/work/Branding/agri/cow 2.webp"
 import cow2 from "../assets/work/Branding/agri/cow 3.webp"
