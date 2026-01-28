@@ -27,7 +27,7 @@ const Calender = () => {
   const [showSuccess, setShowSuccess] = useState(false);
 
   const onSubmit = async (data) => {
-    await fetch("https://formspree.io/f/mrbldlnr", {
+    await fetch(import.meta.env.VITE_FORMSPREE_ENDPOINT, {
       method: "POST",
       body: JSON.stringify(data),
       headers: { "Content-Type": "application/json" }

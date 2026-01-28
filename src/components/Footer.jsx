@@ -10,7 +10,7 @@ const Footer = () => {
   const [showSuccess, setShowSuccess] = useState(false);
 
   const onSubmit = async (data) => {
-    await fetch("https://formspree.io/f/mrbldlnr", {
+    await fetch(import.meta.env.VITE_FORMSPREE_ENDPOINT, {
       method: "POST",
       body: JSON.stringify(data),
       headers: { "Content-Type": "application/json" }
@@ -73,16 +73,16 @@ const Footer = () => {
           <div className="white-gradient-con p-5 rounded-4xl flex flex-col gap-3 w-full md:w-[20%] ">
             <ul><li className="custom-font-2 text-lg font-bold list-none">Quick links</li></ul>
             {[
-              { name: "About", url: "#about" },
-              { name: "Featured Works", url: "#works" },
-              { name: "Brand Identities", url: "#brand" },
-              { name: "Services", url: "#service" },
-              { name: "Free Resources", url: "#resources" },
-              { name: "Contact", url: "#form" },
+              { name: "About", url: "/#about" },
+              { name: "Featured Works", url: "/#works" },
+              { name: "Brand Identities", url: "/#brand" },
+              { name: "Services", url: "/#service" },
+              { name: "Free Resources", url: "/#resources" },
+              { name: "Contact", url: "/#form" },
               
             ].map((link, i) => (
-              <ul>
-                <li key={i} className="list-none pl-1">
+              <ul key={i}>
+                <li  className="list-none pl-1">
                   <a
                     href={link.url}
                     className="custom-font-2 text-white/90 text-sm md:text-base  hover:text-white"

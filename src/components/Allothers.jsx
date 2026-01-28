@@ -19,7 +19,7 @@ const onSubmit = async (data) => {
 
   try {
     // 2. Send email (example API)
-    await fetch("https://formspree.io/f/mrbldlnr", {
+    await fetch(import.meta.env.VITE_FORMSPREE_ENDPOINT, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

@@ -1,12 +1,94 @@
-# React + Vite
+# 🎨 Srinithi – Graphic Designer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-performance graphic designer portfolio built with **React + Vite + Tailwind CSS**, showcasing creative work through a clean UI, smooth animations, and engaging layouts.
 
-Currently, two official plugins are available:
+This project focuses on delivering an attractive **UI/UX experience** while maintaining developer best practices, performance, and scalability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Lightning-fast setup using **Vite**
+- 🎨 Fantastic UI/UX with a clean and modern design
+- 🧩 Bento grid layout for showcasing works and brand identity
+- 🖼️ Swiper carousel for featured projects and image galleries
+- 🎞️ Smooth animations using **Framer Motion**
+- 🧭 Client-side routing with **React Router**
+- 📩 Contact form integrated with **Formspree API**
+- 📱 Fully responsive across all devices
+- 🧼 Clean code structure and reusable components
+
+---
+
+## 🚀 Tech Stack
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **Framer Motion**
+- **React Router DOM**
+- **Swiper.js**
+- **Formspree (Contact Form API)**
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/mageshbalasundaram/Srinithi-Graphic-Designer-Portfolio
+
+```Navigate into the project:
+cd your-repo-name
+npm install
+npm run dev
+
+npm run build
+npm run preview
+
+
+
+Environment Variables
+
+Create a .env file in the root:
+
+VITE_FORMSPREE_ENDPOINT=your_formspree_url
+
+
+Example:
+
+VITE_FORMSPREE_ENDPOINT=https://formspree.io/f/xxxxxxx
+
+⚠️ Make sure .env is added to .gitignore.
+
+
+Project Highlights
+
+Bento grid layout for visual storytelling
+
+Swiper carousel for project showcases
+
+Framer Motion animations for smooth transitions
+
+Modular React components
+
+Tailwind utility-first styling
+
+API-based contact form
+
+SEO-friendly structure
+
+Live Website
+srinithi.blorencedesign.com
+
+
+👨‍💻 Developer
+
+Magesh Balasundaram
+Frontend Developer | React Enthusiast
+
+
+License
+MIT License
+
