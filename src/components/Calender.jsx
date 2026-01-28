@@ -10,7 +10,7 @@ import march from "../assets/Calender/march.webp";
 import april from "../assets/Calender/april.webp";
 import may from "../assets/Calender/may.webp";
 import june from "../assets/Calender/june.webp";
-import july from "../assets/Calender/july.webp";
+import july from "../assets/Calender/July.webp";
 import aug from "../assets/Calender/aug.webp";
 import sep from "../assets/Calender/sep.webp";
 import oct from "../assets/Calender/oct.webp";
