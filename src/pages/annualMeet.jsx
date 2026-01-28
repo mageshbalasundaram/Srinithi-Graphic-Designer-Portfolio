@@ -1,6 +1,6 @@
 import React from 'react'
 import hero from "../assets/timac/hero-image-timac.webp"
-import agenda from "../assets/timac/agenda.webp"
+import agenda from "../assets/timac/Agenda.webp"
 import print from "../assets/timac/timac-print.webp"
 import id from "../assets/timac/timac-id.webp"
 import image from "../assets/timac/timac-img.webp"
