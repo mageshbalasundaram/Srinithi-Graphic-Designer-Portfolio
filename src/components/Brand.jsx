@@ -25,7 +25,7 @@ import cook from "../assets/work/Branding/cooking.gif";
 
 // timac annual meet
 
-import agenda from "../assets/timac/agenda.webp"
+import agenda from "../assets/timac/Agenda.webp"
 import agenda2 from "../assets/timac/A4-Agenda.webp"
 import agenda3 from "../assets/timac/A5-Agenda.webp"
 import backdrop from "../assets/timac/Back-drop.webp"
@@ -35,7 +35,6 @@ import display1 from "../assets/timac/display1.webp"
 import display2 from "../assets/timac/display2.webp"
 import display3 from "../assets/timac/display3.webp"
 import display4 from "../assets/timac/display4.webp"
-import display5 from "../assets/timac/display5.webp"
 
 import display6 from "../assets/timac/display6.webp"
 
